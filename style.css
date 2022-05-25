@@ -293,3 +293,22 @@ border: none;
   input[type=text]{
     width: 493px;
   }
+  .merci{
+    height: 50%;
+  width: 50%;
+  background: bisque;
+  aspect-ratio: 16/9;
+  border-radius: 15px;
+  position: absolute;
+  left: 370px;
+  padding-left: 90px;
+  }
+  .retour{
+    position: absolute;
+    left: 290px;
+    top: 280px;
+    font-size: 25px;
+    background-color: darkgray;
+    aspect-ratio: 16/9;
+  border-radius: 15px;
+  }
