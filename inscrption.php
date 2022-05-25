@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <form action="inscription.php" method="post">
+        <form action="form.php" method="post">
         <div class="v141_110">
             <div class="v141_111">
 
@@ -20,13 +20,14 @@
 
             </span>
             <div class="v141_119"></div>
-          <input type="text" name="nom" class="v141_120">
+          <input type="text" name="nom"  required class="v141_120"></input>
+           
+            <input type="email" name="mail" required class="v141_122" >
+            <input type="number" name="telephone" required class="v141_123">
             <div class="v141_121"></div>
-            <input type="text" name="mail" class="v141_122">
-            <input type="text" name="telephone" class="v141_123">
             <div class="v141_124"></div>
             <div class="name"></div>
-            <input type="text" name="prenom" class="v141_126">
+            <input type="text" name="prenom" required class="v141_126">
             <div class="v141_127"></div>
             <span class="v141_128">RETOUR</span>
             <span class="v141_129">INSCRIPTION</span>

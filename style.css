@@ -132,14 +132,13 @@ text-align: left;
     overflow: hidden;
   }
   .v141_120 {
-    width: 493px;
-    height: 49px;
-    background: rgba(238,235,235,1);
-    opacity: 1;
-    position: absolute;
-    top: 195px;
-    left: 454px;
-    
+
+height: 49px;
+background: rgba(238,235,235,1);
+opacity: 1;
+position: absolute;
+top: 195px;
+left: 454px;
 border-top-left-radius: 20px;
 border-top-right-radius: 20px;
 border-bottom-left-radius: 20px;
@@ -193,7 +192,6 @@ overflow: hidden;
   .v141_124 {
     width: 743px;
     height: 508px;
-    background: url("../images/v141_124.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
