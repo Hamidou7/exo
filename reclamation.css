@@ -1,0 +1,157 @@
+body {
+  font-size: 14px;
+}
+.v147_285 {
+  width: 2880px;
+  height: 1150px;
+  background: rgb(255, 255, 255);
+  opacity: 1;
+  position: absolute;
+  top: 33px;
+  left: -157px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  overflow: hidden;
+}
+.cadreretour {
+  width: 218px;
+  height: 90px;
+  background: rgba(238,235,235,1);
+  opacity: 1;
+  position: absolute;
+  top: 1050px;
+  left: 337px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.retour {
+  width: 100px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1075px;
+  left: 393px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+}
+.cadreenvoyer {
+  width: 218px;
+  height: 90px;
+  background: rgba(238,235,235,1);
+  opacity: 1;
+  position: absolute;
+  top: 1050px;
+  left: 2500px;
+  border: 1px solid rgba(0,0,0,1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.Envoyer {
+  width: 121px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1075px;
+  left: 2550px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: center;
+  cursor: pointer;
+}
+.reclamation {
+    width: 548px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 20px;
+    left: 1300px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 65px;
+    opacity: 1;
+    text-align: center;
+}
+#cadremessage {
+  width: 2420px;
+  height: 550px;
+  background: rgba(238,235,235,1);
+  opacity: 1;
+  position: absolute;
+  top: 470px;
+  left: 318px;
+  border: 1px solid rgba(0,0,0,1);
+  overflow: hidden;
+  font-size: 30px;
+}
+.v147_292 {
+  width: 450px;
+  height: 116px;
+  background: rgba(229,229,229,1);
+  opacity: 1;
+  position: absolute;
+  top: 350px;
+  left: 318px;
+  border: 1px solid rgba(0,0,0,1);
+}
+#cadremotif {
+  width: 2060px;
+  height: 120px;
+  background: rgba(229,229,229,1);
+  opacity: 1;
+  position: absolute;
+  top: 183px;
+  left: 689px;
+  border: 1px solid rgba(0,0,0,1);
+  overflow: hidden;
+  font-size: 30px;
+}
+.v147_294 {
+  width: 370px;
+  height: 116px;
+  background: rgba(238,235,235,1);
+  opacity: 1;
+  position: absolute;
+  top: 183px;
+  left: 318px;
+  border: 1px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.MOTIF {
+  width: 191px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 210px;
+  left: 400px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 59px;
+  opacity: 1;
+  text-align: center;
+}
+.MESSAGE {
+  width: 280px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 375px;
+  left: 400px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 59px;
+  opacity: 1;
+  text-align: center;
+}
+input[type=submit]{
+  border:none;
+}
